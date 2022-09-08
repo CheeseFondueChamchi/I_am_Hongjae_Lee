@@ -4,7 +4,7 @@
 - My repository is being created to provide a batch comparison of multiple models based on a particular preprocessing type.
 - Main Subject of ML is Anomaly Detection on time series data and tabular data.
 - I usually use 'pandas' to preprocess the data.
-- But, every Repository will have 'numpy' output type.
+- But, every repository will have 'numpy' output type.
 - You can contact me through 'gadiun061@gmail.com'.
 
 
