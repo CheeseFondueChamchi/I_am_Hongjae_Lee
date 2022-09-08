@@ -3,7 +3,7 @@
 - I am a newbee on this area, so it will thanks full if you tolerantly watch my repository. :)
 - My repository is being created to provide a batch comparison of multiple models based on a particular preprocessing type.
 - Main Subject of ML is Anomaly Detection on time series data and tabular data.
-- I usually use Pandas DataFrame to preprocess the data.
+- I usually use 'pandas' to preprocess the data.
 - But, every Repository will have 'numpy' output type.
 - You can contact me through 'gadiun061@gmail.com'.
 
