@@ -1,8 +1,6 @@
-- @IamHarryLee
-- I’m working on 5G Communication Engineering Area
-- I’m currently learning 5G Communication Solution with AI
-- 
-- 📫 How to reach me ...
+- I am Harry Lee
+- Currently learning Anomaly Detection Solution to concatnate 5G Communication System
+- You Can contact me through 'gadiun061@gmail.com'
 
 <!---
 IamHarryLee/IamHarryLee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
