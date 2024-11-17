@@ -7,13 +7,13 @@
 📊 Key Skills & Expertise
 
 - Mathematical Foundations: Academic background in Linear Algebra with a focus on Pilot Channel Coding for Massive 5G Communication.
+- Patents on 5G Network Systems: Filed patents addressing solutions for 5G communication network technologies.
 - Anomaly Detection: Specializing in detection models for time-series and tabular data, ensuring system reliability.
 - Model Development: Building repositories to enable batch comparison of multiple models based on diverse preprocessing techniques.
 - Database Management: Proficient in MySQL and PostgreSQL for handling complex data systems efficiently.
 - Large Language Models (LLMs):
     Trained in Prompt Engineering at Canada's Vector Institute.
     Specialized in Machine Reading Comprehension (MRC) techniques and 
-- Patents on 5G Network Systems: Filed patents addressing solutions for 5G communication network technologies.
 - Interactive Dashboard Development: Capable of creating PoC-ready interactive dashboards using tools like Streamlit.
 
 🏅 Certifications
