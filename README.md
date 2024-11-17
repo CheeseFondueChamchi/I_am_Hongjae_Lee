@@ -13,7 +13,7 @@
 - Large Language Models (LLMs):
     Trained in Prompt Engineering at Canada's Vector Institute.
     Specialized in Machine Reading Comprehension (MRC) techniques and 
-- 5G Network Systems: Inventor with 5 patents filed related to 5G communication network technologies.
+- Patents on 5G Network Systems: Filed patents addressing solutions for 5G communication network technologies.
 - Interactive Dashboard Development: Capable of creating PoC-ready interactive dashboards using tools like Streamlit.
 
 🏅 Certifications
